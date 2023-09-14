@@ -388,31 +388,31 @@ iframe{
 }
 
 .folleto{
-    background-image:url(folleto.png);
+    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/folleto.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .volante{
-    background-image:url(volante.png);
+    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/volante.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .catalogo{
-    background-image:url(catalogo.png);
+    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/catalogo.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .infografia{
-    background-image:url(infografia.png);
+    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/infografia.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .video{
-    background-image:url(video.png);
+    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/video.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
