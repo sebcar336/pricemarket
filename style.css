@@ -377,6 +377,7 @@ iframe{
     width: max-content;
     text-align: center;
     margin: 20px 0;
+    display: grid;
 }
 
 .circlePublicity{
@@ -384,37 +385,7 @@ iframe{
     height: 100px;
     border-radius: 50%;
     transition: opacity linear 200ms;
-    margin: 10px 50px;
-}
-
-.folleto{
-    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/folleto.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.volante{
-    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/volante.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.catalogo{
-    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/catalogo.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.infografia{
-    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/infografia.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.video{
-    background-image:url(https://raw.githubusercontent.com/sebcar336/pricemarket/main/img/video.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    margin: 10px 30px;
 }
 
 .circlePublicity:hover{
